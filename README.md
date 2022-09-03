@@ -47,7 +47,7 @@ User Interface & deployment :  Created an UI that shows the output.
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
 ```bash
-git clone https://github.com/Shankar297/Hollywood-Movie-Recommendation-Engine.git
+git clone https://github.com/harin41514/Movie-Recommender.git
 ```
 
 ```bash
@@ -66,5 +66,5 @@ Follow the instruction given on [Heroku Documentation](https://devcenter.heroku.
 3. When the app is deployed on heroku, logs can be viewed on  heroku dashboard or CLI.
 
 ## Contributors
-  [Shankar Wagh](https://github.com/Shankar297)
+  [Harin kumar](https://github.com/Harin41514)
 
